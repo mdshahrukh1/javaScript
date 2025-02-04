@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global vs Local Variable</title>
+</head>
+<body>
+    <script>
+        var data = 200; //global variable declaration
+
+        function a() {
+            var data = 100; //local variable declaration
+            document.write("Inside function :  ", data); // inside function
+        }
+
+        document.write("Outide function :  ", data); // outside function
+        document.write("<br>");
+        a();
+    </script>
+</body>
+</html>
