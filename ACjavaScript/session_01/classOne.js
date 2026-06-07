@@ -1,6 +1,7 @@
 // Using the console  in Chrome
 // It uses REPL -> Read-Evaluate-Print-Loop 
 // For clearing the screen in MAC - cmd + k & for Windows - ctrl + L
+// Variable in JavaScript
 
 let a = 13;
 let b = 2;
