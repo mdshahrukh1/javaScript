@@ -1,5 +1,5 @@
 /*
-for loop
+for loop in JavaScript
 
 for(initialisation; condition; updation){
   //do something
