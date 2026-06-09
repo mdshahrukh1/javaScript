@@ -1,6 +1,6 @@
 /* 
 // Functions in Js
-
+Different type fo functions in JS
 Function Definition(telling JS)
 
 function funcName(){
